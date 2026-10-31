@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "groups": [
+    {
+      "id": "brand",
+      "title": "트로트 가수 브랜드평판",
+      "category": "랭킹",
+      "subtitle": "2026년 10월 기준",
+      "links": [
+        {
+          "id": "brand_trot_202610",
+          "label": "월간 랭킹",
+          "url": "https://brikorea.com/rk/trot2610"
+        }
+      ]
+    },
+    {
+      "id": "melon",
+      "title": "멜론 트로트 차트",
+      "category": "음원차트",
+      "subtitle": "트로트 음원 순위",
+      "links": [
+        {
+          "id": "melon_day",
+          "label": "일간",
+          "url": "https://www.melon.com/chart/day/index.htm?classCd=GN0700"
+        },
+        {
+          "id": "melon_week",
+          "label": "주간",
+          "url": "https://www.melon.com/chart/week/index.htm?classCd=GN0700"
+        },
+        {
+          "id": "melon_month",
+          "label": "월간",
+          "url": "https://www.melon.com/chart/month/index.htm?classCd=GN0700"
+        }
+      ]
+    },
+    {
+      "id": "genie",
+      "title": "지니뮤직 트로트 차트",
+      "category": "음원차트",
+      "subtitle": "트로트 음원 순위",
+      "links": [
+        {
+          "id": "genie_day",
+          "label": "일간",
+          "url": "https://www.genie.co.kr/chart/genre?ditc=D&ymd=&genrecode=M0107"
+        },
+        {
+          "id": "genie_week",
+          "label": "주간",
+          "url": "https://www.genie.co.kr/chart/genre?ditc=W&ymd=&genrecode=M0107"
+        }
+      ]
+    },
+    {
+      "id": "star",
+      "title": "스타 트롯 랭킹",
+      "category": "투표",
+      "subtitle": "273회 투표",
+      "links": [
+        {
+          "id": "star_male_273",
+          "label": "남자",
+          "url": "https://www.starnewskorea.com/star-ranking/male-trot/273"
+        },
+        {
+          "id": "star_female_273",
+          "label": "여자",
+          "url": "https://www.starnewskorea.com/star-ranking/female-trot/273"
+        }
+      ]
+    },
+    {
+      "id": "cbci",
+      "title": "네티즌 어워즈",
+      "category": "투표",
+      "subtitle": "2026년 10월 투표",
+      "links": [
+        {
+          "id": "cbci_male_202610",
+          "label": "남자",
+          "url": "https://www.cbci.co.kr/survey/index.html?sc_ym=202610&sc_category=SV24"
+        },
+        {
+          "id": "cbci_female_202610",
+          "label": "여자",
+          "url": "https://www.cbci.co.kr/survey/index.html?sc_ym=202610&sc_category=SV25"
+        }
+      ]
+    }
+  ]
+}
