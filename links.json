@@ -93,3 +93,79 @@
     }
   ]
 }
+   "id": "thetrotshow",
+      "title": "더트롯쇼",
+      "category": "가수랭킹",
+      "subtitle": "순위 보기",
+      "links": [
+        {
+          "id": "thetrotshow_posts",
+          "label": "게시물",
+          "url": "https://www.youtube.com/@thetrotvorago/posts"
+        }
+      ]
+    },
+    {
+      "id": "fanmaum",
+      "title": "팬마음",
+      "category": "가수랭킹",
+      "subtitle": "순위 보기",
+      "links": [
+        {
+          "id": "fanmaum_male",
+          "label": "남자",
+          "url": "https://fanmaum.com/votes/381"
+        },
+        {
+          "id": "fanmaum_female",
+          "label": "여자",
+          "url": "https://fanmaum.com/votes/382"
+        }
+      ]
+    },
+    {
+      "id": "fannstar",
+      "title": "팬앤스타",
+      "category": "가수랭킹",
+      "subtitle": "순위 보기",
+      "links": [
+        {
+          "id": "fannstar_rank",
+          "label": "순위",
+          "url": "https://fannstar.tf.co.kr/rank/view/class"
+        }
+      ]
+    },
+    {
+      "id": "trotpick",
+      "title": "트롯픽",
+      "category": "가수랭킹",
+      "subtitle": "순위 보기",
+      "links": [
+        {
+          "id": "trotpick_week",
+          "label": "주간",
+          "url": "https://trotpick.donga.com/poll/record.php?m=week"
+        },
+        {
+          "id": "trotpick_month",
+          "label": "월간",
+          "url": "https://trotpick.donga.com/poll/record.php?m=four_week"
+        }
+      ]
+    },
+    {
+      "id": "bugs",
+      "title": "벅스 성인가요 차트",
+      "category": "음원차트",
+      "subtitle": "순위 보기",
+      "links": [
+        {
+          "id": "bugs_adult_day",
+          "label": "일간",
+          "url": "https://music.bugs.co.kr/genre/chart/kpop/adultkpop/total/day"
+        }
+      ]
+    }
+  ]
+}
