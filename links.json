@@ -1,3 +1,35 @@
+{
+  "schemaVersion": 1,
+  "groups": [
+    {
+      "id": "brand",
+      "title": "트로트 가수 브랜드평판",
+      "category": "랭킹",
+      "subtitle": "GitHub 연결 테스트",
+      "links": [
+        {
+          "id": "brand_trot_202610",
+          "label": "월간 랭킹",
+          "url": "https://brikorea.com/rk/trot2610"
+        }
+      ]
+    },
+    {
+      "id": "melon",
+      "title": "멜론 트로트 차트",
+      "category": "음원차트",
+      "subtitle": "트로트 음원 순위",
+      "links": [
+        {
+          "id": "melon_day",
+          "label": "일간",
+          "url": "https://www.melon.com/chart/day/index.htm?classCd=GN0700"
+        },
+        {
+          "id": "melon_week",
+          "label": "주간",
+          "url": "https://www.melon.com/chart/week/index.htm?classCd=GN0700"
+        },
         {
           "id": "melon_month",
           "label": "월간",
@@ -126,3 +158,13 @@
       "title": "벅스 성인가요 차트",
       "category": "음원차트",
       "subtitle": "순위 보기",
+      "links": [
+        {
+          "id": "bugs_adult_day",
+          "label": "일간",
+          "url": "https://music.bugs.co.kr/genre/chart/kpop/adultkpop/total/day"
+        }
+      ]
+    }
+  ]
+}
