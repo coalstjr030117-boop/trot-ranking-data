@@ -1,5 +1,7 @@
+
 {
   "schemaVersion": 1,
+   "coupangStoreUrl": "https://influencers.coupang.com/s/chems",
   "groups": [
     {
       "id": "brand",
