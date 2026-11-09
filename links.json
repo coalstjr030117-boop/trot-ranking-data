@@ -84,12 +84,12 @@
         {
           "id": "cbci_male_202610",
           "label": "남자",
-          "url": "https://www.cbci.co.kr/survey/index.html?sc_ym=202610&sc_category=SV24"
+          "url": "https://www.cbci.co.kr/survey/index.html?sc_ym=202611&sc_category=SV24"
         },
         {
           "id": "cbci_female_202610",
           "label": "여자",
-          "url": "https://www.cbci.co.kr/survey/index.html?sc_ym=202610&sc_category=SV25"
+          "url": "https://www.cbci.co.kr/survey/index.html?sc_ym=202611&sc_category=SV25"
         }
       ]
     },
